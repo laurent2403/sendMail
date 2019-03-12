@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Cette exception est soulevée lorsqu'une adresse email est invalide.
  * 
- * @author Laurebt Baillehache
+ * @author Laurent Baillehache
  * 
  */
 public class InvalidEmailAddressException extends RuntimeException implements Serializable {
